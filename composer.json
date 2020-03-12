@@ -1,0 +1,16 @@
+{
+    "name": "gcrypt/security",
+    "description": "securyti of password has",
+    "authors": [
+        {
+            "name": "gcrypt",
+            "email": "faculdade123.guilherme@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "aplication\\": "aplication/"
+        }
+    },
+    "require": {}
+}
